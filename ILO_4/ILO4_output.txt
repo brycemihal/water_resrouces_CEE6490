@@ -1,0 +1,2 @@
+Total Reliability,Total Resilience,Total Vulnerability,Total Shortage Cost
+85.714286,80.000000,8407.022099,96347184.798919
